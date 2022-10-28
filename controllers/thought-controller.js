@@ -30,7 +30,7 @@ const thoughtController = {
           ? res.status(404).json({
               message: 'Thought created, but found no user with that ID',
             })
-          : res.json('Created the Thought 🎉')
+          : res.json('Created the Thought')
       )
       .catch((err) => {
         console.log(err);
