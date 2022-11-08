@@ -16,11 +16,15 @@ THEN I am able to successfully create, update, and delete users and thoughts in 
 WHEN I test API POST and DELETE routes in Insomnia.<br>
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list.
 
-## Social Network Api Screenshot:
+## Social Network Api Screenshot: GIF
+
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/110719370/200689629-d3ff7a4a-a5e4-4186-8cd3-c526e616c73a.gif)
+
 
 ## Social Network API Walkthrough:
 
 https://drive.google.com/file/d/1rTJVnjeCzMJt6dDAcwpn72stNA6YeF9w/view
+
 ## Social Network API Github Repository URL:
 
 
