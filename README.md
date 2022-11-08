@@ -1,5 +1,14 @@
 # Social Network API
 
+
+
+## Table of Contents
+
+- [Description](#description)
+- [Acceptance Criteria](#acceptance-criteria)
+- [Social Network API Screenshot GIF](#social-network-api-screenshot-gif)
+- [Social Network API Walkthrough](#social-network-api-walkthrough)
+- [Social Network API Github Repository URL](#social-network-api-github-repository-url)
 ## Description
 
 Social Network API is a app was crearted using MERN stack in a single application where users can create an account post their thoughts for others to see, and interact with others users throough thes thoughts. Theyu also have the option to update their thoughts as wee as their username.
@@ -28,4 +37,4 @@ https://drive.google.com/file/d/1rTJVnjeCzMJt6dDAcwpn72stNA6YeF9w/view
 
 https://github.com/toddrgarner/social-network-api
 
-
+© 2022 Todd Garner. Confidential and Proprietary. All Rights Reserved.
