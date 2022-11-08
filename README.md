@@ -20,11 +20,12 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/110719370/200689629-d3ff7a4a-a5e4-4186-8cd3-c526e616c73a.gif)
 
-
 ## Social Network API Walkthrough:
 
 https://drive.google.com/file/d/1rTJVnjeCzMJt6dDAcwpn72stNA6YeF9w/view
 
 ## Social Network API Github Repository URL:
+
+https://github.com/toddrgarner/social-network-api
 
 
